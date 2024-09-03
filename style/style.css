@@ -1,0 +1,5 @@
+/* add font */
+@font-face {
+    font-family: "NerkoOne";
+    src: url(../assets/fonts/NerkoOne-Regular.ttf);
+}
